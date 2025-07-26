@@ -189,6 +189,71 @@ main>section{
 }
 
 
+ .Latest-Deals{
+  margin-top: 130px;
+  text-align: center;
+ }
+ .Latest-Deals-title{
+  font-size: 3.2rem;
+  font-weight: bold;
+ }
+ .Latest-Deals-description{
+  font-size: 1.5;
+  color: rgba(0, 0, 0, 0.5);
+ }
+ /* .cards-indulge{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 28px;
+  width: 100%;
+  height: 100%;
+  margin-top: 120px;
+  align-items: center;
+  
+ } */
+
+ .cards-indulge{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 28px;
+    width: 100%;
+  height: 100%;
+  margin-top: 120px;
+  align-items: center;
+ }
+ .img-2{
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  gap: 25px;
+ }
+
+
+.Bloom-Plant{
+  background-image: url(../assets/deal-bloom\ \(2\).png);
+  width: 100%;
+  height: 100%;
+  border-radius: 14px;
+   
+
+}
+.Ana-Planth{
+  background-image: url(../assets/deal-ana\ \(2\).png);
+   height: 197px;
+  width: 100%;
+  border-radius:14px ;
+
+}
+.Zabo-Plant{
+  background-image: url(../assets/deal-zabo\ \(2\).png);
+  
+   width:753px;
+  height: 424px;
+  /* padding: 40px; */
+  border-radius: 22px; 
+  
+}
+
+
 
 
 
