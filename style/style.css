@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.inter-fonts {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+.noto-serif-fonts {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+
+/* sher style */
+.display-flex{
+    display: flex;
+}
+main{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+main>section{
+    margin-top: 130px;
+}
+
+
+
+
+
+/* navber */
+.navber, .banner{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.navber{
+    justify-content: space-between;
+    align-items: center;
+}
+.menu a {
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 400;
+  color: rgba(137, 135, 161, 1);
+  margin-right: 48px;
+
+
+
+}
+#Home{
+  font-weight: 900;
+  color: rgba(37, 36, 50, 1);
+
+
+}
+#Cart{
+  color: rgba(0, 0, 0, 1);
+}
+
+
+/* banner */
+.banner-title{
+  font-size: 4rem;
+  font-weight: bold;
+  color: rgba(233, 90, 8, 1);
+}
+.banner-description{
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+  
+}
+.banner{
+  justify-content: space-between;
+  margin-top: 221px;
+}
+.ALWAYS{
+  color:rgba(0, 0, 0, 1) ;
+}
+.Plants-Section{
+  text-align: center;
+}
