@@ -253,6 +253,58 @@ main>section{
   
 }
 
+  /* join section */
+.Join-Section {
+  background-image: url(../assets/news-letter-bg.png);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 533px;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.join-Section-img {
+  text-align: center;
+  padding-top: 60px; 
+}
+
+.Join-Section-title {
+  font-size: 3.2rem;
+  font-weight: bold;
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 30px;
+}
+
+.join-button {
+  display: flex;
+  width: 830px;
+  height: 57px;
+  background: rgba(255, 255, 255, 1);
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#input-Subscribe {
+  flex: 1;
+  border: none;
+  padding: 0 20px;
+  font-size: 1rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.button-subscribe {
+  width: 186px;
+  background-color: rgba(233, 90, 8, 1); 
+  color: rgba(255, 255, 255, 1);
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
 
 
 
