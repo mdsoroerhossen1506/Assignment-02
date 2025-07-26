@@ -143,6 +143,53 @@ main>section{
 }
 
 
+.Plants-Lover-Section{
+  /* width: 1140px; */
+  /* max-width: 900px; */
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: solid;
+
+}
+
+.badge{
+  width: 286px;
+  height: 286px;
+}
+.Plants-Lover-item li {
+  font-size: 1.5;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+
+}
+.Plants-Lover-item{
+  padding: 30px;
+  width: 540px;
+}
+.plants-Lover img {
+  width: 540px;
+  height: 597px;
+  object-fit: cover;
+
+
+
+}
+.Flower{
+  font-size: 3.2rem;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 1);
+}
+.badge{
+  margin-top: -520px;
+  margin-left: -209px;
+}
+.Plants-Lover{
+  margin-left: 60px;
+}
+
+
+
 
 
 
